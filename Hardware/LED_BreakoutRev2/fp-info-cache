@@ -1,4 +1,4 @@
-20766306584372961
+20769669919500138
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58188,8 +58188,22 @@ MRDT_Devices
 
 
 0
+3
+3
+MRDT_Devices
+280nm
+
+
 0
+4
+3
+MRDT_Devices
+310nm
+
+
 0
+3
+3
 MRDT_Devices
 ABS25
 
