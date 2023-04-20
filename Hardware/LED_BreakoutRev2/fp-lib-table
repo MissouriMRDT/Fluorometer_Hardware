@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Footprints")(type "KiCad")(uri "C:/GitHub/Fluorometer_Breakout_Hardware/Libraries/Footprints")(options "")(descr ""))
+)
