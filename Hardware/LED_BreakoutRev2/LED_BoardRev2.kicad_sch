@@ -6225,7 +6225,7 @@
     (property "Reference" "R1" (id 0) (at 83.82 49.5299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "150" (id 1) (at 83.82 52.0699 0)
+    (property "Value" "250" (id 1) (at 83.82 52.0699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder" (id 2) (at 79.502 50.8 90)
@@ -6991,7 +6991,7 @@
       (reference "Q6") (unit 1) (value "BSS214NW") (footprint "Package_TO_SOT_SMD:SOT-323_SC-70")
     )
     (path "/00ffef87-41ab-498e-a52c-9e3f66475947"
-      (reference "R1") (unit 1) (value "150") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
+      (reference "R1") (unit 1) (value "250") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
     )
     (path "/1fa96d35-89d1-48e4-b862-0f8f9ffc3ff2"
       (reference "R2") (unit 1) (value "12") (footprint "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder")
