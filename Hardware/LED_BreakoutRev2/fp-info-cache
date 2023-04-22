@@ -1,4 +1,4 @@
-20779234654685108
+20786490449053224
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52357,8 +52357,8 @@ VLMU35CL2.-275-120
 
 
 0
-0
-0
+2
+2
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
@@ -56636,6 +56636,13 @@ solder jumper open
 0
 5
 3
+KL265-50W-SM-WD Footprint
+3535
+
+
+0
+3
+3
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -58233,6 +58240,34 @@ USB-UX60R-MB-5ST
 9
 5
 MRDT_Devices
+275nm LED
+
+
+0
+3
+3
+MRDT_Devices
+280nm
+
+
+0
+4
+3
+MRDT_Devices
+310nm
+
+
+0
+3
+3
+MRDT_Devices
+365nm LED
+
+
+0
+5
+5
+MRDT_Devices
 ABS25
 
 
@@ -58288,6 +58323,13 @@ Q36SR12020NRFA
 0
 8
 8
+MRDT_Devices
+Stupid 4 Ohm Resistor
+
+
+0
+2
+2
 MRDT_Devices
 TSR_1-2433
 
@@ -59249,20 +59291,6 @@ zz_Atlas_Logo_Short_Title_110mmX37.4mm
 0
 MRDT_Silkscreens
 zz_Atlas_Logo_Short_Title_140mmX47.6mm
-
-
-0
-0
-0
-MRDT_Silkscreens
-zz_Helios_Logo_Full_2.26inx3in
-
-
-0
-0
-0
-MRDT_Silkscreens
-zz_Helios_Logo_Short_3inx1.4in
 
 
 0
