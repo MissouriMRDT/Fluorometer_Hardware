@@ -24340,7 +24340,7 @@
   (symbol (lib_id "Mechanical:MountingHole") (at 154.94 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ac34bb12-007f-4202-a3a5-1c322457208e)
-    (property "Reference" "H?" (id 0) (at 158.115 50.7999 0)
+    (property "Reference" "H4" (id 0) (at 158.115 50.7999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (id 1) (at 158.115 53.3399 0)
@@ -24983,7 +24983,7 @@
       (reference "H3") (unit 1) (value "MountingHole") (footprint "MRDT_Drill_Holes:4_40_Hole_Corner")
     )
     (path "/ac34bb12-007f-4202-a3a5-1c322457208e"
-      (reference "H?") (unit 1) (value "MountingHole") (footprint "MRDT_Drill_Holes:4_40_Hole_Corner")
+      (reference "H4") (unit 1) (value "MountingHole") (footprint "MRDT_Drill_Holes:4_40_Hole_Corner")
     )
     (path "/269f3339-dc77-41ad-8061-e06ca80de4be"
       (reference "J1") (unit 1) (value "RJ45_LED_Shielded") (footprint "MRDT_Connectors:RJ45_Teensy")
