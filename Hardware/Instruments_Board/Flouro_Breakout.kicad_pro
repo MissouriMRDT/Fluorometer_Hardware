@@ -382,7 +382,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../Documentation/Flouro_Breakout.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
