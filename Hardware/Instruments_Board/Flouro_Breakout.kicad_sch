@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Flourometer_Breakout")
+    (title "Instruments Board")
     (rev "1")
     (company "MRDT")
   )
@@ -23456,11 +23456,11 @@
     (property "Datasheet" "" (id 3) (at 237.49 17.78 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid d9f84265-2b73-4354-83a3-d6bb8800de6e))
+    (pin "1" (uuid d9f84265-2b73-4354-83a3-d6bb8800de6f))
     (pin "2" (uuid c1746eb0-8fbb-4c3a-a4d4-eebebc1df767))
     (pin "3" (uuid bbbead48-b70d-4426-85e3-25670456dcb4))
     (pin "4" (uuid d234f1bb-7407-4f45-9185-66ea8e18b2dd))
-    (pin "1" (uuid d9f84265-2b73-4354-83a3-d6bb8800de6e))
+    (pin "1" (uuid d9f84265-2b73-4354-83a3-d6bb8800de6f))
   )
 
   (symbol (lib_id "Device:LED") (at 123.825 168.275 90) (unit 1)
@@ -23839,11 +23839,11 @@
     (property "Datasheet" "" (id 3) (at 283.21 38.1 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 8c1c5d84-3308-4337-94c5-52a48c17640d))
+    (pin "1" (uuid 8c1c5d84-3308-4337-94c5-52a48c17640e))
     (pin "2" (uuid d5afb3a0-dc8a-4b60-b5fa-1754e8faf654))
     (pin "3" (uuid abcf443c-2c60-4188-8949-d85acc5ddd62))
     (pin "4" (uuid 75fce18b-ba42-4023-af6a-43ea4e025146))
-    (pin "1" (uuid 8c1c5d84-3308-4337-94c5-52a48c17640d))
+    (pin "1" (uuid 8c1c5d84-3308-4337-94c5-52a48c17640e))
   )
 
   (symbol (lib_id "Molex_SL_06:Molex_SL_06") (at 218.44 68.58 0) (unit 1)
