@@ -1673,7 +1673,7 @@
     (property "Value" "Molex_SL_09" (at 138.43 92.71 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "" (at 142.24 92.71 0)
+    (property "Footprint" "MRDT_Connectors:MOLEX_SL_09_Vertical" (at 142.24 92.71 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 142.24 92.71 0)
@@ -2334,11 +2334,11 @@
     (property "Datasheet" "" (at 153.67 71.12 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 09b44007-b6b9-407a-a308-a8796c8089be))
+    (pin "1" (uuid 09b44007-b6b9-407a-a308-a8796c8089bf))
     (pin "2" (uuid df58d0a5-0a28-4939-86db-03b5ee8f5948))
     (pin "3" (uuid 79e79cc3-c8f8-4c65-bf94-a1d321d6d4b8))
     (pin "4" (uuid aa843422-2c06-42e8-988e-e1b0dac71fc0))
-    (pin "1" (uuid 09b44007-b6b9-407a-a308-a8796c8089be))
+    (pin "1" (uuid 09b44007-b6b9-407a-a308-a8796c8089bf))
     (instances
       (project "FlourometerBoard_Hardware"
         (path "/b4982880-e7f7-4cba-b3f5-03d53d819057"
@@ -2382,17 +2382,17 @@
     (property "Value" "AndersonPP" (at 182.88 100.33 90)
       (effects (font (size 1.524 1.524)) (justify right))
     )
-    (property "Footprint" "" (at 195.58 105.41 0)
+    (property "Footprint" "MRDT_Connectors:Square_Anderson_2_H_Side_By_Side_PV" (at 195.58 105.41 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 195.58 105.41 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid de89a460-a643-4ebb-b3fa-490778bc973a))
+    (pin "1" (uuid de89a460-a643-4ebb-b3fa-490778bc973b))
     (pin "2" (uuid cfe743e7-2339-4bfb-8802-2acc335f591c))
     (pin "3" (uuid 128e90c8-f72d-4d42-b721-189d462763b1))
     (pin "4" (uuid e0b39970-e13b-4dd9-9b35-18fce6c78d3a))
-    (pin "1" (uuid de89a460-a643-4ebb-b3fa-490778bc973a))
+    (pin "1" (uuid de89a460-a643-4ebb-b3fa-490778bc973b))
     (instances
       (project "FlourometerBoard_Hardware"
         (path "/b4982880-e7f7-4cba-b3f5-03d53d819057"
