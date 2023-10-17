@@ -1,4 +1,4 @@
-22602712648539483
+22606110643445543
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -62713,6 +62713,13 @@ OKI
 3
 3
 MRDT_Devices
+PKE3316ZPI
+
+
+0
+6
+6
+MRDT_Devices
 Q36SR12020NRFA
 
 
@@ -62894,6 +62901,13 @@ USEQGSEAN8L180
 0
 36
 30
+MRDT_Passives
+3528SMD_Diode
+
+
+0
+2
+2
 MRDT_Passives
 ATC_Fuse_Block
 
