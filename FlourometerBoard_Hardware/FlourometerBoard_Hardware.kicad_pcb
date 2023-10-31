@@ -304,7 +304,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (layer "F.Cu")
     (tstamp 40cb9b00-6868-40f7-8a53-0b11d775f973)
-    (at 137.5175 96.266)
+    (at 137.5645 96.012)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "FlourometerBoard_Hardware.kicad_sch")
@@ -358,7 +358,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (layer "F.Cu")
     (tstamp 518d8b0e-db5b-41a8-9eec-7e50b72dadda)
-    (at 141.478 96.266 180)
+    (at 141.525 96.012 180)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED handsolder")
     (property "Sheetfile" "FlourometerBoard_Hardware.kicad_sch")
@@ -425,7 +425,7 @@
     (property "Sheetname" "")
     (path "/9c261aa3-ed97-4f61-9e15-16c005314f45")
     (attr through_hole)
-    (fp_text reference "U1" (at -18.796 -9.906) (layer "F.SilkS")
+    (fp_text reference "U1" (at -24.13 -9.906) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a1a2d91c-a3c2-4494-a55c-4618aeed93e8)
     )
@@ -660,7 +660,7 @@
 
   (footprint "MRDT_Drill_Holes:4_40_Hole" (layer "F.Cu")
     (tstamp 65b55673-af83-4eb8-a0c3-5d5e580c1973)
-    (at 139.954 85.598)
+    (at 139.192 85.598)
     (clearance 2.54)
     (attr through_hole)
     (fp_text reference "REF**" (at -0.00508 0.50508) (layer "F.SilkS") hide
@@ -861,7 +861,7 @@
 
   (footprint "MRDT_Drill_Holes:4_40_Hole" (layer "F.Cu")
     (tstamp 865d7399-edbd-4759-893a-dd689872066c)
-    (at 42.418 114.046)
+    (at 43.942 110.998)
     (clearance 2.54)
     (attr through_hole)
     (fp_text reference "REF**" (at -0.00508 0.50508) (layer "F.SilkS") hide
@@ -1097,7 +1097,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp c1be89f0-d20e-431a-b8f0-d6016b41c0f9))
   (gr_line (start 139.954 81.534) (end 42.418 81.534)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp cd0340f1-e37e-4272-85a5-7dfe395d2413))
-  (gr_text "Flourometer Board, Rev1\nMars Rover Design Team\nMissouri S&T, 2024\nEthan Williams, Tri Le" (at 40.132 109.474) (layer "F.SilkS") (tstamp 30804d02-64ae-44cb-b9d0-0868f8c9b3f5)
+  (gr_text "Flourometer Board, Rev1\nMars Rover Design Team\nMissouri S&T, 2024\nEthan Williams, Tri Le" (at 70.866 99.568) (layer "F.SilkS") (tstamp 30804d02-64ae-44cb-b9d0-0868f8c9b3f5)
     (effects (font (size 1.016 1.016) (thickness 0.2032)) (justify left bottom))
   )
   (gr_text "Hamamatsu" (at 70.866 90.678) (layer "F.SilkS") (tstamp 3ad1e64b-a8e8-4af2-aa6f-9344a1cdb55c)
@@ -1106,10 +1106,10 @@
   (gr_text "LED Breakout" (at 112.776 90.932) (layer "F.SilkS") (tstamp 3c94e567-1353-410c-a292-e0698cc5dc2c)
     (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "5V" (at 135.636 93.726 90) (layer "F.SilkS") (tstamp d06abe1d-7b60-47e9-a06a-d4116a321863)
+  (gr_text "5V" (at 135.636 92.964 90) (layer "F.SilkS") (tstamp d06abe1d-7b60-47e9-a06a-d4116a321863)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
-  (gr_text "12V" (at 135.636 98.298 90) (layer "F.SilkS") (tstamp dde1ef96-f0de-43fa-830a-75287fb48a88)
+  (gr_text "12V" (at 135.683 98.806 90) (layer "F.SilkS") (tstamp dde1ef96-f0de-43fa-830a-75287fb48a88)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
 
@@ -1151,7 +1151,7 @@
   (segment (start 91.44 86.36) (end 91.44 99.568) (width 0.254) (layer "B.Cu") (net 9) (tstamp f0350372-64ff-4e8b-ac7f-68cba7610594))
   (segment (start 93.98 99.568) (end 95.758 101.346) (width 0.254) (layer "B.Cu") (net 10) (tstamp 64e85420-f182-4b14-a663-03ec8ca624ff))
   (segment (start 93.98 86.36) (end 93.98 99.568) (width 0.254) (layer "B.Cu") (net 10) (tstamp a9c523a9-c92b-4d97-b458-c72c907f970c))
-  (segment (start 140.603 96.266) (end 138.43 96.266) (width 0.254) (layer "F.Cu") (net 11) (tstamp 11e8780d-993f-42d5-9acd-4b932ebde27c))
+  (segment (start 140.65 96.012) (end 138.477 96.012) (width 0.254) (layer "F.Cu") (net 11) (tstamp 11e8780d-993f-42d5-9acd-4b932ebde27c))
   (segment (start 140.603 92.202) (end 138.43 92.202) (width 0.254) (layer "F.Cu") (net 12) (tstamp 2645f917-ace7-4194-9af5-7f0ed2e4def7))
   (segment (start 62.374 105.796) (end 45.986 89.408) (width 0.254) (layer "F.Cu") (net 14) (tstamp 38076694-5334-41e2-a4b9-8d80573b2903))
   (segment (start 75.708 105.796) (end 62.374 105.796) (width 0.254) (layer "F.Cu") (net 14) (tstamp e887e034-35d3-463d-820b-9badd1d39ffd))
@@ -12102,22 +12102,6 @@
         (xy 42.419438 81.5345)
         (xy 138.819199 81.5345)
       )
-    )
-  )
-  (group "" (id 90442086-63db-422e-ab7e-9312ec5d8746)
-    (members
-      11e8780d-993f-42d5-9acd-4b932ebde27c
-      40cb9b00-6868-40f7-8a53-0b11d775f973
-      518d8b0e-db5b-41a8-9eec-7e50b72dadda
-      dde1ef96-f0de-43fa-830a-75287fb48a88
-    )
-  )
-  (group "" (id e3e4b9d9-a2f1-47d6-beaf-cf34f9fac8b5)
-    (members
-      2645f917-ace7-4194-9af5-7f0ed2e4def7
-      2b7fc009-49dc-4143-ba88-ab95a4cb0ede
-      d06abe1d-7b60-47e9-a06a-d4116a321863
-      e18c198a-0a47-4735-8d0a-c7b3510ddf32
     )
   )
 )
