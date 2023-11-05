@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
-%TF.CreationDate,2023-11-04T22:35:43-05:00*%
+%TF.CreationDate,2023-11-05T11:25:06-06:00*%
 %TF.ProjectId,LEDBreakout_Hardware,4c454442-7265-4616-9b6f-75745f486172,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.7) date 2023-11-04 22:35:43*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2023-11-05 11:25:06*
 %MOMM*%
 %LPD*%
 G01*
@@ -34,14 +34,14 @@ G04 Aperture macros list end*
 G04 APERTURE END LIST*
 D10*
 %TO.C,D8*%
-X94008000Y-83616800D03*
+X93767000Y-79171800D03*
 D11*
-X91908000Y-83616800D03*
+X91667000Y-79171800D03*
 %TD*%
 D10*
 %TO.C,D7*%
-X91730200Y-88696800D03*
+X91489200Y-84251800D03*
 D11*
-X89630200Y-88696800D03*
+X89389200Y-84251800D03*
 %TD*%
 M02*
